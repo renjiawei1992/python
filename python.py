@@ -4,3 +4,5 @@ import torch.nn.functional as F
 
 class SimpleCNN(nn.Module):
     pass
+
+print("SimpleCNN class defined successfully.")
